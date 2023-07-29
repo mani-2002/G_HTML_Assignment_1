@@ -1,0 +1,19 @@
+*{
+	background-color:#C0AAF8;
+}
+.mainhead{
+	color:blue;
+	text-align:center;
+	font-size:25px;
+}
+.left{
+	color:#E14705;
+}
+.right{
+	text-align:right;
+	color:#0F20F1;
+}
+.center{
+	text-align:center;
+	color:#9728F9 ;
+}

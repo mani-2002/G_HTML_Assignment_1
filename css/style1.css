@@ -1,0 +1,18 @@
+.main{
+	background-color:#F53228;
+	border:none;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:150px;
+	height:300px;
+}
+.top{
+	color:white;
+	font-size:20px;
+	text-align:center;
+}
+.bottom{
+	font-size:50px;
+	text-align:center;
+	color:yellow;
+}

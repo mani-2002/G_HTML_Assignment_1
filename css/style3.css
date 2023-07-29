@@ -1,0 +1,18 @@
+.mainhead{
+	color:blue;
+	text-align:center;
+	font-size:35px;
+}
+.right{
+	text-align:right;
+	font-size:15px;
+}
+.justify{
+	text-align:justify;
+}
+.left{
+	text-align:left;
+}
+.center{
+	text-align:center;
+}

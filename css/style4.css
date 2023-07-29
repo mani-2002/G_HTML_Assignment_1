@@ -1,0 +1,18 @@
+*{
+	background-color:#27C3F1;
+}
+.main{
+	color:yellow;
+	font-size:30px;
+	text-align:center;
+}
+.sub{
+	color:yellow;
+	font-size:20px;
+	text-align:center;
+}
+.img{
+	margin-left:430px;
+	height:300px;
+	width:500px;
+}
